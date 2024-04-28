@@ -18,7 +18,8 @@ The TechOpenSolve Career Growth Repository is dedicated to addressing issues rel
 
 - **Labeling of Career Levels**: Issues related to the classification and labeling of different career levels within the tech industry, such as junior, mid-level, and senior positions. This includes addressing challenges or discrepancies in the current labeling system, advocating for transparent criteria for each level, and promoting fairness and equal opportunities in career advancement.
 
-- **Work-Life Balance**: Issues concerning maintaining a healthy work-life balance while pursuing a career in the tech industry. This includes strategies for managing workload, avoiding burnout, and prioritizing personal well-being.
+<!-- to be added to work environment -->
+<!-- - **Work-Life Balance**: Issues concerning maintaining a healthy work-life balance while pursuing a career in the tech industry. This includes strategies for managing workload, avoiding burnout, and prioritizing personal well-being. -->
 
 There are many more topics within career growth in the tech industry that deserve attention, but these are just a few examples of the issue types we aim to include in this repo.
 
