@@ -1,6 +1,6 @@
 # Welcome to the Career Growth Repo
 
-This repository focuses on issues that can be improved within the tech community.
+This repository focuses on issues that can be improved within the tech career growth.
 
 ## What is the Tech Community?
 
